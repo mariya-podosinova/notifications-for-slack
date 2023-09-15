@@ -33,11 +33,7 @@ In the preceding week, our primary focus was on the exploratory phase of our pro
 - [Available Solutions](#available-solutions)
 - [Pros and Cons](#pros-and-cons)
 - [Challenges and Next Steps](#challenges-and-next-steps)
-- [Contributing](#contributing)
 - [Contact Information](#contact-information)
-- [Appendix](#appendix)
-- [Version History](#version-history)
-- [License](#license)
 
 ## Requirements
 
