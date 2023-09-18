@@ -42,3 +42,9 @@ This week, our project focused on the operational aspect, primarily securing acc
 ## Current Progress
 
 ### Exploratory Phase
+
+During the preceding week, our primary focus was on the exploratory phase of our project. Key activities during this phase included:
+
+- **Research and Evaluation**: We conducted comprehensive research and evaluation of potential integration approaches, aiming to identify the most suitable method for seamless integration.
+
+- **Solution Discovery**: The exploratory phase involved discovering and assessing multiple integration options to determine the optimal path forward. We evaluated feasibility, benefits, and challenges associated with each solution.
