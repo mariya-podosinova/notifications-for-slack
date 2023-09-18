@@ -23,7 +23,6 @@ This week, our project focused on the operational aspect, primarily securing acc
 - [Requirements](#requirements)
 - [Current Progress](#current-progress)
 - [Available Solutions](#available-solutions)
-- [Pros and Cons](#pros-and-cons)
 - [Challenges and Next Steps](#challenges-and-next-steps)
 - [Contact Information](#contact-information)
 
@@ -73,3 +72,17 @@ We've explored several potential solutions for integrating Outlook Calendar with
 ### Solution 4: Creating a Slack Bot (Low Priority)
 
 🤷‍♂️ More research is needed to gather details and feasibility as we don't have sufficient information at the moment.
+
+## Challenges
+
+### Lack of Access to Power Automate Platform
+
+One of the primary challenges we currently face is the **lack of access to the Power Automate platform**. We've encountered an error that prevents us from utilizing this key component of our integration plan. To address this challenge, we have initiated communication with support teams to secure the necessary permissions and resolve access-related issues.
+
+You can view a screenshot of the error we encountered [here](URL_TO_ERROR_SCREENSHOT).
+
+### Exploring a Bot-Based Solution for Slack
+
+Additionally, we are exploring the feasibility of implementing a bot-based solution for Slack integration. This presents its own set of challenges, including the need for thorough research and development to ensure an effective and seamless integration.
+
+As we progress, we will continue to document and address these challenges while seeking solutions to overcome them.
