@@ -73,16 +73,36 @@ We've explored several potential solutions for integrating Outlook Calendar with
 
 🤷‍♂️ More research is needed to gather details and feasibility as we don't have sufficient information at the moment.
 
-## Challenges
+## Challenges and Next Steps
 
 ### Lack of Access to Power Automate Platform
 
-One of the primary challenges we currently face is the **lack of access to the Power Automate platform**. We've encountered an error that prevents us from utilizing this key component of our integration plan. To address this challenge, we have initiated communication with support teams to secure the necessary permissions and resolve access-related issues.
+One of the primary challenges we currently face is the **lack of access to the Power Automate platform**. We've encountered an error that prevents us from utilizing this key component of our integration plan. To address this challenge, we've taken the following steps:
 
-You can view a screenshot of the error we encountered [here](URL_TO_ERROR_SCREENSHOT).
+- **Access Request with Power Intake**: We have currently requested access with Power Intake, and the request status is **InProgress**. Last week, we opened and resolved a ticket with Accenture Support, which led to the recommendation to open a request with Power Intake.
+
+- **Microsoft Enterprise Admin Center (Microsoft Developer)**: Additionally, we are facing access issues with app registrations in the Microsoft Enterprise Admin Center (Microsoft Developer). Access is currently denied, adding complexity to our development efforts.
+
+As we progress, we will continue to document and address these challenges while seeking solutions to overcome them.
+
+You can view a screenshot of the error we encountered [here](https://github.com/mariya-podosinova/notifications-for-slack/blob/main/issue-screenshots/Screenshot%202023-09-11%20at%2014.29.54.png).
 
 ### Exploring a Bot-Based Solution for Slack
 
 Additionally, we are exploring the feasibility of implementing a bot-based solution for Slack integration. This presents its own set of challenges, including the need for thorough research and development to ensure an effective and seamless integration.
 
-As we progress, we will continue to document and address these challenges while seeking solutions to overcome them.
+## Contact Information
+
+Have questions or need assistance? Feel free to reach out to the team:
+
+Project Contributors:
+
+🤝 dave.postle@accenture.com
+
+🔍 kaily.newman@accenture.com
+
+👨‍💻 mariya.podosinova@accenture.com
+
+👨‍💻 yuri.aguirre@accenture.com
+
+We're here to help and collaborate on this project!
