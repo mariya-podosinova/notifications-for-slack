@@ -43,8 +43,33 @@ This week, our project focused on the operational aspect, primarily securing acc
 
 ### Exploratory Phase
 
-During the preceding week, our primary focus was on the exploratory phase of our project. Key activities during this phase included:
+During the previous weeks, our primary focus was on the exploratory phase of our project. Key activities during this phase included:
 
 - **Research and Evaluation**: We conducted comprehensive research and evaluation of potential integration approaches, aiming to identify the most suitable method for seamless integration.
 
 - **Solution Discovery**: The exploratory phase involved discovering and assessing multiple integration options to determine the optimal path forward. We evaluated feasibility, benefits, and challenges associated with each solution.
+
+## Available Solutions
+
+### Overview
+
+We've explored several potential solutions for integrating Outlook Calendar with Slack, with a primary focus on leveraging Power Automate due to its compatibility and advantages. Below, we outline the available options, along with their associated considerations.
+
+### Solution 1: Third-Party Tools Providers (Low Priority)
+
+👍 No need to develop a custom solution.
+👎 Not free, which can add to project costs.
+
+### Solution 2: Application Development with Microsoft Developer (Medium Priority)
+
+👍 Total control over implementation, allowing for custom features.
+👎 Requires development effort and resources; no access right now.
+
+### Solution 3: Reusing Templates with Power Automate (High Priority)
+
+👍 Access to a repository of ready-made templates and a large community.
+👎 No access right now.
+
+### Solution 4: Creating a Slack Bot (Low Priority)
+
+🤷‍♂️ More research is needed to gather details and feasibility as we don't have sufficient information at the moment.
