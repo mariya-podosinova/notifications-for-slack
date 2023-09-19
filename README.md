@@ -12,7 +12,7 @@ Previously, our implementation involved integrating Google Calendar with Slack. 
 
 This week, our focus was on the operational aspect of our project.
 
-- **Communication with Support**: We initiated discussions with the support team to gain the necessary permissions for platform access. However, we have encountered access limitations beyond our current authority. To learn more about our communication with support, please refer to the [PowerIntake.md](URL_TO_POWER_INTAKE_DOC) document.
+- **Communication with Support**: We initiated discussions with the support team to gain the necessary permissions for platform access. However, we have encountered access limitations beyond our current authority. To learn more about our communication with support, please refer to the [PowerIntake.md](https://github.com/mariya-podosinova/notifications-for-slack/blob/main/PowerIntake.md) document.
 
 - **Exploring a Bot-Based Solution**: In parallel with addressing access issues, we have been actively investigating the feasibility of implementing a bot-based solution for Slack integration.
 
