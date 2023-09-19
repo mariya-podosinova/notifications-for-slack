@@ -10,13 +10,11 @@ Previously, our implementation involved integrating Google Calendar with Slack. 
 
 ### Recent Developments
 
-This week, our project focused on the operational aspect, primarily securing access to Power Automate, a critical component of our integration plan. Key activities and achievements include:
+This week, our focus was on the operational aspect of our project.
 
-- **Communication with Support**: We initiated communication with the support team to resolve access-related issues by opening tickets with Accenture Support, ensuring necessary permissions for our project.
+- **Communication with Support**: We initiated discussions with the support team to gain the necessary permissions for platform access. However, we have encountered access limitations beyond our current authority. To learn more about our communication with support, please refer to the [PowerIntake.md](URL_TO_POWER_INTAKE_DOC) document.
 
-- **Resolution of Initial Issues**: Collaborative efforts with the support team successfully resolved initial challenges, ensuring seamless access to Power Automate.
-
-- **Logging a New Request**: We streamlined integration efforts by logging a new request with Power Intake, ensuring access to required tools and resources.
+- **Exploring a Bot-Based Solution**: In parallel with addressing access issues, we have been actively investigating the feasibility of implementing a bot-based solution for Slack integration.
 
 ## Table of Contents
 
@@ -31,7 +29,7 @@ This week, our project focused on the operational aspect, primarily securing acc
 1. **Automated Notifications from Outlook Calendar to Specified Slack Channels**:
 
    - The system should automate the process of sending notifications from Outlook Calendar to specified Slack channels.
-   - Users should have the ability to customize the content and format of notifications, including setting notification frequency and other preferences, such as setting it to every Friday for all events for the following week.
+   - Users should have the ability to customize the content and format of notifications, including setting notification frequency and other preferences, such as setting notifications to every Friday for all events for the following week.
    - Notifications should be sent automatically when new events are added to the Outlook Calendar or when changes are made to calendar events by the owner, ensuring timely updates in the Slack channel.
 
 2. **User Documentation and UAT**:
@@ -79,7 +77,7 @@ We've explored several potential solutions for integrating Outlook Calendar with
 
 One of the primary challenges we currently face is the **lack of access to the Power Automate platform**. We've encountered an error that prevents us from utilizing this key component of our integration plan. To address this challenge, we've taken the following steps:
 
-- **Access Request with Power Intake**: We have currently requested access with Power Intake, and the request status is **InProgress**. Last week, we opened and resolved a ticket with Accenture Support, which led to the recommendation to open a request with Power Intake.
+- **Access Request with Power Intake**: We have requested access with Power Intake, and the request status is **InProgress**. Last week, we opened and resolved a ticket with Accenture Support, which led to the recommendation to open a request with Power Intake.
 
 - **Microsoft Enterprise Admin Center (Microsoft Developer)**: Additionally, we are facing access issues with app registrations in the Microsoft Enterprise Admin Center (Microsoft Developer). Access is currently denied, adding complexity to our development efforts.
 
