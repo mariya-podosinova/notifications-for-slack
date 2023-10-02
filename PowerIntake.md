@@ -41,3 +41,8 @@ For a full check list of whether you’ll definitely need an AIR ID, please refe
 Will you require any development and architecture help from the Central Power Platform team?
 Best Regards,
 CIO Power Platform Team
+
+## You
+
+29/09/2023 13:56
+Hi, I don't have the authority to provide suggested information, and it seems that I'm unable to use Slack in the current circumstances. Can you confirm this, or suggest any alternative solutions for sending notifications from the Outlook calendar to the team's
